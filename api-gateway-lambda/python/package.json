@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/slackapi/bolt-examples-aws-re-invent-2020#readme",
   "dependencies": {
-    "serverless": "^2.12.0"
+    "serverless": "^4.0.0"
   }
 }
